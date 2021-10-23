@@ -17,7 +17,7 @@ namespace YoutubeScrapperFull
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Press enter to start youtube channel scrapping");
+            Console.WriteLine("Press enter to start youtube channel scrapping.....");
             Console.ReadLine();
 
             GetDataFromYoutubeAndFillCsv();
