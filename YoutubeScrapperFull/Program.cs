@@ -13,7 +13,7 @@ namespace YoutubeScrapperFull
 {
     class Program
     {
-        //fjdjfkdf
+        //abcd
         static Random random = new Random();
 
         static void Main(string[] args)
